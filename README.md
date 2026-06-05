@@ -1,5 +1,7 @@
 # Element Forge
 
+[**✦ Built with Bluey Lite**](https://www.trybluey.com/products/bluey-lite) · [**Join the Discord**](https://discord.com/invite/SndB4Psg)
+
 **Be Tony Stark for five minutes.**
 
 Element Forge is a webcam-controlled holographic experience inspired by the "new element" discovery scene in *Iron Man 2* — the moment Tony grabs a glowing projection of the city, strips it down, and watches it bloom into the atomic structure of a brand-new element. This recreates that feeling in the browser: raise your hands to your webcam and shape a glowing element in the air with nothing but gestures.
